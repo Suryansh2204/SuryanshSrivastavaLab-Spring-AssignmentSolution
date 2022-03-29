@@ -27,7 +27,7 @@
 
 				<!-- Add a button -->
 				<a href="/StudentsDebateEvent/students/showForForAdd"
-					class="btn btn-primary btn-sm mb-3"> Add Book </a> 
+					class="btn btn-primary btn-sm mb-3"> Add Student </a> 
 
 					<a href="/StudentsDebateEvent/logout" 
 					class="btn btn-primary btn-sm mb-3 mx-auto"> Logout </a> 
